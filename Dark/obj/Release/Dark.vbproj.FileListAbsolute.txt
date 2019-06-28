@@ -1,0 +1,23 @@
+C:\Users\User\AppData\Local\Temporary Projects\Dark\bin\Release\Dark.exe.config
+C:\Users\User\AppData\Local\Temporary Projects\Dark\bin\Release\Dark.exe
+C:\Users\User\AppData\Local\Temporary Projects\Dark\bin\Release\Dark.pdb
+C:\Users\User\AppData\Local\Temporary Projects\Dark\bin\Release\Dark.xml
+C:\Users\User\AppData\Local\Temporary Projects\Dark\obj\Release\Dark.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\Dark\obj\Release\Dark.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\Dark\obj\Release\Dark.vbproj.GenerateResource.cache
+C:\Users\User\AppData\Local\Temporary Projects\Dark\obj\Release\Dark.vbproj.CoreCompileInputs.cache
+C:\Users\User\AppData\Local\Temporary Projects\Dark\obj\Release\Dark.exe
+C:\Users\User\AppData\Local\Temporary Projects\Dark\obj\Release\Dark.xml
+C:\Users\User\AppData\Local\Temporary Projects\Dark\obj\Release\Dark.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Dark\Dark\bin\Release\Dark.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\Dark\Dark\bin\Release\Dark.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Dark\Dark\bin\Release\Dark.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Dark\Dark\bin\Release\Dark.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\Dark\Dark\obj\Release\Dark.vbprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Dark\Dark\obj\Release\Dark.Form1.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Dark\Dark\obj\Release\Dark.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\Dark\Dark\obj\Release\Dark.vbproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Dark\Dark\obj\Release\Dark.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\Dark\Dark\obj\Release\Dark.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\Dark\Dark\obj\Release\Dark.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\Dark\Dark\obj\Release\Dark.pdb
